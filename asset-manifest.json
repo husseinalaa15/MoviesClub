@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/MoviesClub/static/css/main.939659f6.css",
+    "main.js": "/MoviesClub/static/js/main.876c50bd.js",
+    "static/js/787.14e4bc02.chunk.js": "/MoviesClub/static/js/787.14e4bc02.chunk.js",
+    "static/media/logo.svg": "/MoviesClub/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/MoviesClub/index.html",
+    "main.939659f6.css.map": "/MoviesClub/static/css/main.939659f6.css.map",
+    "main.876c50bd.js.map": "/MoviesClub/static/js/main.876c50bd.js.map",
+    "787.14e4bc02.chunk.js.map": "/MoviesClub/static/js/787.14e4bc02.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.939659f6.css",
+    "static/js/main.876c50bd.js"
+  ]
+}
