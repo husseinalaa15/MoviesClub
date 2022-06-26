@@ -1,0 +1,19 @@
+.searchBtn{
+    background: #884c05;
+    border: none;
+    color: white;
+}
+.searchBtn:hover{
+    background-color: #c6893e;
+    color: black;
+}
+.inputSearch{
+    background: #170d01;
+    border: none;
+    color: white;
+}
+.inputSearch:focus{
+    background: #331d02;
+    border: none;
+    color: white;
+}

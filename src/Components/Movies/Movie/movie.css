@@ -1,0 +1,42 @@
+.singleMovieCard{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.singleMovieCard img{
+    width: 50%;
+    box-shadow: rgb(255 255 255 / 35%) 0px 5px 15px;
+}
+.singleMovieDetails{
+    background-color: #48311c;
+}
+.singleMovieDetails .releaseDate{
+    color: grey;
+    font-size: 10px;
+    margin: 0;
+}
+.companies{
+    width:100%;
+}
+.companies img{
+    width:15%;
+}
+.movierate{
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 18px;
+    width: 65px;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.movieAllData{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.voteCount{
+    font-size: 12px;
+    color: grey;
+}

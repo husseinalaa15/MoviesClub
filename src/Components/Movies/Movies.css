@@ -1,0 +1,84 @@
+body{
+    background-color: #170d01;
+}
+.movieCard{
+    position: relative;
+    border: none;
+    height: 500px;
+}
+.movieCard img{
+    height: 100%;
+}
+.movieCardDetails{
+    background-color: #48311c ;
+    opacity:0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 15px;
+    color: white;
+    transition: 0.5s all ease-in-out;
+  }
+.movieCardDetails h3{
+    font-size: 20px;
+}
+.movieCardDetails h6{
+    color: grey;
+    font-size: 13px;
+}
+.movieData{
+    position: absolute;
+    top: -65px;
+    width: 100%;
+    
+}
+.movieData button{
+    background-color:transparent;
+
+    border: none;
+    padding: 10px;
+
+}
+
+
+.movieData h5{
+    padding: 10px;
+    border-radius: 50%;
+    font-size: 18px;
+    width: 62px;
+    height: 62px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.movieCard:hover .movieCardDetails{
+    opacity: 1;
+}
+.page-item .page-link{
+    background-color: #48311c;
+    color: white;
+    border: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+}
+.page-item .page-link:hover{
+    background-color: #82572e;
+    color: black;
+}
+.btnDetails{
+    background-color: #815c39;
+    color: white;
+    border: none;
+    font-size: 18px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: 0.3s all ease-in-out;
+
+}
+.btnDetails:hover{
+    background-color: #e48b38;
+    
+
+}
